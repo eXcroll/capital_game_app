@@ -73,7 +73,7 @@ export function Business({id, name, price, lastRun, timeTaken, hasManager, quant
           <div className="business-buy-and-timer">
             <div className={'business-buy' + (balance.amount >= price ? ' active' : '')}
               onClick={buy}>
-              <span>Купить</span><span>${price.toLocaleString()}</span>
+              <span></span><span>${price.toLocaleString()}</span>
             </div>
             <div className="business-timer">
               <CountDown timeTaken={timeTaken} timeAlreadyRun={timeAlreadyRun} autoStart={running} uuid={uuid} onComplete={onComplete}/>
