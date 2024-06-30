@@ -1,4 +1,4 @@
-# Adventure Capitalist Game
+# Adventure Capitalist Game (русский перевод)
 
 This game was built on React + Redux.
 
