@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/capital_game_app/static/css/main.e518d762.css",
-    "main.js": "/capital_game_app/static/js/main.def71f44.js",
+    "main.js": "/capital_game_app/static/js/main.8cb64571.js",
     "index.html": "/capital_game_app/index.html",
     "main.e518d762.css.map": "/capital_game_app/static/css/main.e518d762.css.map",
-    "main.def71f44.js.map": "/capital_game_app/static/js/main.def71f44.js.map"
+    "main.8cb64571.js.map": "/capital_game_app/static/js/main.8cb64571.js.map"
   },
   "entrypoints": [
     "static/css/main.e518d762.css",
-    "static/js/main.def71f44.js"
+    "static/js/main.8cb64571.js"
   ]
 }
