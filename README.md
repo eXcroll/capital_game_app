@@ -1,11 +1,11 @@
 # Adventure Capitalist Game
 
-This game was built on React + Redux. It was inspired from http://en.gameslol.net/adventure-capitalist-1086.html
+This game was built on React + Redux.
 
 This game is responsive, so it works on Desktop, Tablet and Mobile.
 
 ## Demo
-https://than1089.github.io/adventure-capitalist/
+https://excroll.github.io/capital_game_app/
 
 ## Dependencies
 This game has minimum dependencies, no 3rd UI or game engine
